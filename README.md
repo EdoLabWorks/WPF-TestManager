@@ -6,7 +6,7 @@ Instrument drivers or any external libraries can be easily added for remote cont
 
 Test results are logged using simple XML file or using a MySQL database.
 
-![](https://github.com/EdoLabWorks/xedo-imgs/blob/master/TestManager2.png)
+![](https://github.com/EdoLabWorks/xedo-imgs/blob/master/TestManager.png)
 
 A web interface can also be used to access the test manager through the local area network. 
 
