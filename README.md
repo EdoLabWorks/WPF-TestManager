@@ -10,8 +10,6 @@ Test results are logged using simple XML file or using a MySQL database.
 
 A web interface can also be used to access the test manager through the local area network. 
 
-A simple test system overview is shown here.
-
-![](https://github.com/EdoLabWorks/xedo-imgs/blob/master/TestSystemOverview.png)
+[](https://github.com/EdoLabWorks/xedo-imgs/blob/master/TestSystemOverview.png)
 
 This project is based on WPF using C#.
