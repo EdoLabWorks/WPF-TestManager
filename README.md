@@ -10,7 +10,8 @@ Test results are logged using XML, MySQL database or MongoDB via a NodeJS connec
 
 A web interface can also be used to access the test manager through the local area network. 
 
-A simple overview of how to interface with device drivers for instrument/fixture control for any product testing.  
+A shown below is a simple overview of how the Test Manager framework is structured.
+
 ![](https://github.com/EdoLabWorks/xedo-imgs/blob/master/TestSystemOverview.png)
 
 This project is based on WPF using C#.
