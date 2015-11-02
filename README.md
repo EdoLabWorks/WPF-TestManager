@@ -2,7 +2,7 @@
 
 A basic test manager framework that can be used in any lab test environment or validation testing.
 
-Instrument drivers or any external libraries can be easily added for remote operations uing GPIB, USB, ethernet or RS232 serial communications.
+Instrument drivers or any external libraries can be easily added for remote operations using GPIB, USB, ethernet or RS232 serial communications.
 
 Test results are logged using XML, MySQL database or MongoDB via a NodeJS connector app.
 
